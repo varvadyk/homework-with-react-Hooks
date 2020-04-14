@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homework-with-react-Hooks/static/css/main.3cae502f.chunk.css",
+    "main.js": "/homework-with-react-Hooks/static/js/main.1642319e.chunk.js",
+    "main.js.map": "/homework-with-react-Hooks/static/js/main.1642319e.chunk.js.map",
+    "runtime-main.js": "/homework-with-react-Hooks/static/js/runtime-main.3915b8cb.js",
+    "runtime-main.js.map": "/homework-with-react-Hooks/static/js/runtime-main.3915b8cb.js.map",
+    "static/js/2.09b8c727.chunk.js": "/homework-with-react-Hooks/static/js/2.09b8c727.chunk.js",
+    "static/js/2.09b8c727.chunk.js.map": "/homework-with-react-Hooks/static/js/2.09b8c727.chunk.js.map",
+    "index.html": "/homework-with-react-Hooks/index.html",
+    "precache-manifest.2476869fba2bfb168bbfe55c5d3b55ce.js": "/homework-with-react-Hooks/precache-manifest.2476869fba2bfb168bbfe55c5d3b55ce.js",
+    "service-worker.js": "/homework-with-react-Hooks/service-worker.js",
+    "static/css/main.3cae502f.chunk.css.map": "/homework-with-react-Hooks/static/css/main.3cae502f.chunk.css.map",
+    "static/js/2.09b8c727.chunk.js.LICENSE.txt": "/homework-with-react-Hooks/static/js/2.09b8c727.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3915b8cb.js",
+    "static/js/2.09b8c727.chunk.js",
+    "static/css/main.3cae502f.chunk.css",
+    "static/js/main.1642319e.chunk.js"
+  ]
+}
