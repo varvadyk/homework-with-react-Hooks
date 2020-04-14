@@ -1,0 +1,15 @@
+.button_start{
+    background-color: #808000;
+}
+span{
+    color:white;
+}
+.timer{
+    background-color: #DAA520;
+    width: 50px;
+    height:40px;
+    color: aliceblue;
+ margin: 30px auto;
+ padding-top: 14px;
+    border-radius: 50px;
+}
